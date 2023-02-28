@@ -1,0 +1,47 @@
+body {
+    font-family: 'Bangers', cursive;
+    background-image: url("imgs/bg-static.jpg");
+        background-size: auto;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 50%;
+    margin-bottom: 20px;
+    height: 150px;
+    width: 150px;
+}
+
+p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.social {
+    border-radius: 50%;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 50px;
+}
+.art {
+   
+    margin-bottom: 20px;
+    height: 250px;
+    width: 250px;
+}
+
+
